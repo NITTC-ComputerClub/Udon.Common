@@ -1,0 +1,16 @@
+{
+  "name": "@nittc-computerclub/udon-common",
+  "version": "0.1.0",
+  "description": "Shared libraries for Udon.",
+  "author": "Naoki Ikeguchi <root@siketyan.dev>",
+  "license": "MIT",
+  "homepage": "https://github.com/NITTC-ComputerClub/Udon.Common#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NITTC-ComputerClub/Udon.Common.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NITTC-ComputerClub/Udon.Common/issues"
+  },
+  "scripts": {}
+}
