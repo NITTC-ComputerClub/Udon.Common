@@ -1,11 +1,11 @@
 import { Uuid } from '../types/uuid';
 import { DateTime } from '../types/date-time';
-import { User } from './user';
+import { Member } from './member';
 import { Client } from './client';
 
 export type Record = {
   id: Uuid,
-  user: User,
+  user: Member,
   client: Client,
   createdAt: DateTime,
 };
