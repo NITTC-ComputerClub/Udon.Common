@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/NITTC-ComputerClub/Udon.Common/issues"
   },
-  "scripts": {}
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
 }
