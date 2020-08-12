@@ -1,6 +1,6 @@
 {
   "name": "@nittc-computerclub/udon-common",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shared libraries for Udon.",
   "author": "Naoki Ikeguchi <root@siketyan.dev>",
   "license": "MIT",
